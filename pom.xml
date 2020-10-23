@@ -47,7 +47,7 @@
         <version.disruptor>3.3.6</version.disruptor>
         <version.fast-classpath-scanner>2.0.5</version.fast-classpath-scanner>
         <version.google-flatbuffers>1.4.0</version.google-flatbuffers>
-        <version.guava>19.0</version.guava>
+        <version.guava>r03</version.guava>
         <version.hadoop>2.7.3</version.hadoop>
         <version.httpcomponents>4.5.2</version.httpcomponents>
         <version.jackson>2.8.4</version.jackson>
